@@ -1,0 +1,1 @@
+`flow-typed` must be installed globally. Type flow-typed install to build the required libraries for the front-end.
